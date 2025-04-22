@@ -67,9 +67,16 @@
 
 ## 📊 GitHub Stats
 
-[![Luciano Édipo GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianoedipo&show_icons=true&theme=default)](https://github.com/lucianoedipo/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoedipo&layout=compact)](https://github.com/lucianoedipo/github-readme-stats)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucianoedipo&show_icons=true&theme=default" alt="Luciano Édipo GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoedipo&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📚 Academic Publications
