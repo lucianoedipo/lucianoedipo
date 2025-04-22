@@ -18,7 +18,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee&link=https://www.instagram.com/lucianoedipo/)](https://www.instagram.com/lucianoedipo/)
 
 ---
-
 ## 🧰 Tech Stack
 
 ### 🔧 Programming & Scripting
@@ -26,17 +25,43 @@
 <code><img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
+
+---
 
 ### 🌐 Frameworks & Platforms
 <code><img height="20" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code>
+<code><img height="20" src="https://img.shields.io/badge/GovBR--DS-0D5188?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" title="Design System do Governo Federal"></code>
+
+---
+
+### 💾 Databases & Data Tools
+<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></code>
 
-### 🛠️ Tools & Misc
+---
+
+### ⚙️ DevOps & Infrastructure
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></code>
+
+---
+
+### 🖥️ OS & IDEs
+<code><img height="20" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
+
 
 ---
 
