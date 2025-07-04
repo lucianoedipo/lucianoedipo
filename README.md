@@ -6,7 +6,7 @@
 :house_with_garden: From Brazil 🇧🇷  
 🏢 Atuação: ANPD | UFMS | SENAI/MS  
 🎯 Foco atual: Engenharia de Software, Microsserviços, Auditoria de Sistemas e Governança de Dados  
-🧠 Explorando: Inteligência Artificial, Interoperabilidade entre sistemas governamentais, Arquiteturas modernas (Next.js, NestJS, Prisma)
+🧠 Explorando: Inteligência Artificial, Interoperabilidade entre sistemas governamentais, Arquiteturas modernas (Next.js, NestJS, Prisma, React)
 
 ---
 
