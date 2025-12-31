@@ -1,21 +1,19 @@
 # 👋 Welcome!
 
 ## I'm Luciano Édipo!
-👨‍🏫 Professor Adjunto | 👨‍💻 Software Engineer | 📊 Open Data Advocate
+👨‍🏫 Professor Adjunto | 👨‍💻 Software Engineer | 🏛️ Engenharia de Plataformas & Governança de Dados
 
 :house_with_garden: From Brazil 🇧🇷  
 🏢 Atuação: ANPD | UFMS | SENAI/MS  
-🎯 Foco atual: Engenharia de Software, Microsserviços, Auditoria de Sistemas e Governança de Dados  
+🎯 Foco atual: Engenharia de Software aplicada a microsserviços, auditoria de sistemas, interoperabilidade governamental e governança de dados 
 🧠 Explorando: Inteligência Artificial, Interoperabilidade entre sistemas governamentais, Arquiteturas modernas (Next.js, NestJS, Prisma, React)
 
 ---
 
 ## 🔗 Online
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucianoedipo)](https://github.com/lucianoedipo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoedipo/)](https://www.linkedin.com/in/lucianoedipo/)
 [![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Luciano-Edipo-Silva)](https://www.researchgate.net/profile/Luciano-Edipo-Silva)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitee&link=https://www.instagram.com/lucianoedipo/)](https://www.instagram.com/lucianoedipo/)
 
 ---
 ## 🧰 Tech Stack
@@ -34,10 +32,8 @@
 ### 🌐 Frameworks & Platforms
 <code><img height="20" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-<code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code>
 <code><img height="20" src="https://img.shields.io/badge/GovBR--DS-0D5188?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" title="Design System do Governo Federal"></code>
 
 ---
@@ -50,7 +46,6 @@
 ---
 
 ### ⚙️ DevOps & Infrastructure
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"></code>
@@ -89,8 +84,5 @@
 6. FIETZ, C. R.; NOVACHINSK, J. R.; SILVA, L. É. P.; LIMA, R. V. IrriWeb: uma ferramenta para definir o manejo racional da irrigação. In: II Simpósio sobre Inovação e Criatividade Científica na Embrapa, 2010.
 7. FIETZ, C. R.; COMUNELLO, E.; SILVA, L. É. P.; SOUZA, P. S. Sistema de Monitoramento Agroclimático da Região de Dourados, MS. In: 7º Congresso Brasileiro de Agroinformática - SBIAgro 2009.
 8. SOUSA, Raphael Alex; SILVA, Luciano Édipo Pereira. BRAVO Sistema Web de Apoio à Pesquisa em Educação. In: IV Congresso Brasileiro de Informática na Educação, 2015.
-9. NASCIMENTO, Fabiana; da SILVA, Lucineide; NONATO, Karla; da SILVA, Luciano Édipo Pereira. Uma Proposta de Jogo Educacional para o Ensino e Aprendizagem de Geometria. In: Brazilian Symposium on Computers in Education (Simpósio Brasileiro de Informática na Educação-SBIE), v. 28, n. 1, p. 1757, 2017.
-10. LIMA, Luiz Henrique Quevedo. UFMS Mobile: Ferramenta para auxílio acadêmico na Universidade Federal de Mato Grosso do Sul, 2016.
-11. FUCCI, Renan Rocha. Classificadores de Imagem de Satélite do Pantanal Sul Matogrossense, 2016.
-12. BARROS, Kelvyn de Oliveira Sales; SILVA, Luciano Édipo Pereira da; NEVES, Yuri Pedroso das; SILVA, Lucineide Rodrigues da. Parceria Empresa-Universidade para pesquisa em TI. In: Revista do Congresso Internacional de Tecnologia e Negócios, 2019.
-13. NECO, Bruno Marcos Pimenta; da SILVA, Luciano Édipo Pereira; da SILVA, Lucineide Rodrigues. Identificação de Domínio para Jogos Educacionais Digitais. Trabalho de Conclusão de Curso - Bacharelado em Sistemas de Informação, 2017.
+9. BARROS, Kelvyn de Oliveira Sales; SILVA, Luciano Édipo Pereira da; NEVES, Yuri Pedroso das; SILVA, Lucineide Rodrigues da. Parceria Empresa-Universidade para pesquisa em TI. In: Revista do Congresso Internacional de Tecnologia e Negócios, 2019.
+10. NECO, Bruno Marcos Pimenta; da SILVA, Luciano Édipo Pereira; da SILVA, Lucineide Rodrigues. Identificação de Domínio para Jogos Educacionais Digitais. Trabalho de Conclusão de Curso - Bacharelado em Sistemas de Informação, 2017.
