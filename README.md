@@ -9,13 +9,6 @@
 🧠 Explorando: Inteligência Artificial, Interoperabilidade entre sistemas governamentais, Arquiteturas modernas (Next.js, NestJS, Prisma, React)
 
 ---
-
-## 🔗 Online
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianoedipo/)](https://www.linkedin.com/in/lucianoedipo/)
-[![ResearchGate Badge](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Luciano-Edipo-Silva)](https://www.researchgate.net/profile/Luciano-Edipo-Silva)
-
----
 ## 🧰 Tech Stack
 
 ### 🔧 Programming & Scripting
