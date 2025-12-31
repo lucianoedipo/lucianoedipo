@@ -25,7 +25,6 @@
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="20" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></code>
 
 ---
 
